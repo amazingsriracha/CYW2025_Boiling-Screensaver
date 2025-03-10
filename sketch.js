@@ -65,10 +65,10 @@ function draw() {
 
 }
 
-function drawPot(){
-    noStroke();
-    fill(190 + fillInc, 180 + fillInc, 150 + fillInc, 180);
-    strokeWeight(10);
-    ellipse(width / 2, height / 2, width * 0.9);
-    fillInc += 0.1;
-}
+// function drawPot(){
+//     noStroke();
+//     fill(190 + fillInc, 180 + fillInc, 150 + fillInc, 180);
+//     strokeWeight(10);
+//     ellipse(width / 2, height / 2, width * 0.9);
+//     fillInc += 0.1;
+// }
